@@ -1,2 +1,3 @@
 # hello-world
-following the GitHub tutorial
+Following the GitHub tutorial
+Still going through the tutorial
